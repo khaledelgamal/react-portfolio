@@ -8,7 +8,7 @@ const About = () => {
         <div>
           <Title text="Tech Journey" />
           <p className=" text-slate-600 py-8">
-            I'm Khaled Abdulrahman, a Computer Science and Artificial
+            I'm Elgamal, a Computer Science and Artificial
             Intelligence graduate from Cairo University. My academic journey
             immersed me in programming fundamentals, emphasizing Object-Oriented
             Programming, Data Structures, Algorithms, Databases, and Networks
