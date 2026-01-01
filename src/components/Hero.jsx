@@ -24,7 +24,7 @@ const Hero = () => {
               </a>
             </li>
             <li>
-              <a href="github.com/khaledelgamal" target="_blank">
+              <a href="https://github.com/khaledelgamal" target="_blank">
                 <FaGithubSquare className="icon" />
               </a>
             </li>
