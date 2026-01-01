@@ -87,7 +87,7 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: 'https://raw.githubusercontent.com/khaleed2002/portfolio/main/project_preview_images/nodejs_task-manager.png',
+    img: 'https://raw.githubusercontent.com/khaledelgamal/portfolio/main/project_preview_images/nodejs_task-manager.png',
     github: 'https://github.com/khaledelgamal/nodejs_task-manager-app',
     title: 'Task manager',
     technologies: ['Node js', 'Express js', 'MongoDB', 'mongoose'],
@@ -96,7 +96,7 @@ export const projects = [
     id: nanoid(),
     img: 'https://raw.githubusercontent.com/khaledelgamal/portfolio/main/project_preview_images/nodejs_chat-app.png',
     url: 'https://chat-app-6f0z.onrender.com/',
-    github: 'https://github.com/khaleed2002/nodejs_chat-app',
+    github: 'https://github.com/khaledelgamal/nodejs_chat-app',
     title: 'Chat app',
     technologies: ['Node js', 'Socket.io'],
   },
@@ -104,7 +104,7 @@ export const projects = [
     id: nanoid(),
     img: 'https://raw.githubusercontent.com/khaledelgamal/portfolio/main/project_preview_images/mix-master.png',
     url: 'https://react-mix-master-1.netlify.app/',
-    github: 'https://github.com/khaleed2002/react-mix-master',
+    github: 'https://github.com/khaledelgamal/react-mix-master',
     title: 'Mix Master',
     technologies: [
       'React',
@@ -116,7 +116,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: 'https://raw.githubusercontent.com/khaleed2002/portfolio/main/project_preview_images/img4you.png',
+    img: 'https://raw.githubusercontent.com/khaledelgamal/portfolio/main/project_preview_images/img4you.png',
     url: 'https://img4you.netlify.app/',
     github: 'https://github.com/khaledelgamal/react-img4you',
     title: 'IMG4You',
@@ -130,7 +130,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: 'https://raw.githubusercontent.com/khaleed2002/portfolio/main/project_preview_images/color-generator.png',
+    img: 'https://raw.githubusercontent.com/khaledelgamal/portfolio/main/project_preview_images/color-generator.png',
     url: 'https://react-color-generator-1.netlify.app/',
     github: 'https://github.com/khaledelgamal/react-color-generator',
     title: 'Color Generator',
