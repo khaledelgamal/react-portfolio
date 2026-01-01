@@ -17,14 +17,14 @@ const Hero = () => {
           <ul className="flex gap-2">
             <li>
               <a
-                href="https://www.linkedin.com/in/khaleed2002/"
+                href="https://www.linkedin.com/in/khaledelgamal-dev/"
                 target="_blank"
               >
                 <FaLinkedin className="icon" />
               </a>
             </li>
             <li>
-              <a href="https://github.com/khaleed2002" target="_blank">
+              <a href="github.com/khaledelgamal" target="_blank">
                 <FaGithubSquare className="icon" />
               </a>
             </li>
