@@ -7,26 +7,32 @@ const About = () => {
         <img src={aboutImg} alt="About img" className="w-full h-60 m-auto hidden md:block" />
         <div>
           <Title text="Tech Journey" />
-          <p className=" text-slate-600 py-8">
-            I'm Elgamal, a Computer Science and Artificial
-            Intelligence graduate from Cairo University. My academic journey
-            immersed me in programming fundamentals, emphasizing Object-Oriented
-            Programming, Data Structures, Algorithms, Databases, and Networks
-            using languages like C++, Java, and Python.
+          <p className="text-slate-600 py-8">
+            I'm Khaled, a Full Stack Developer with over a year of professional experience
+            building scalable, high-performance web applications. I hold a Bachelor's
+            degree in Computer Science and Artificial Intelligence from Cairo University,
+            where I developed a strong foundation in algorithms, data structures,
+            databases, and software engineering principles.
             <br />
             <br />
-            Post-graduation, my passion for technology led me to specialize in
-            web development as a MERN stack developer. In 2022, I secured an
-            MCIT Online Scholarship, deepening my expertise in Node.js and
-            Express. I furthered my skills through specialized Udemy courses,
-            mastering MongoDB and React technologies like Hooks, Query, Router,
-            Redux Toolkit, and Tailwind CSS.
+            Professionally, I’ve worked across healthcare, business, and AI-driven SaaS
+            products. I currently contribute to a large-scale microfrontend architecture,
+            developing and maintaining multiple React portals while focusing heavily on
+            performance optimization, state management, and clean, maintainable code. My
+            work has directly improved application load times and overall performance
+            scores through caching, memoization, and bundle optimization techniques.
             <br />
             <br />
-            My commitment to technological advancements, coupled with hands-on
-            learning, positions me as an adaptable professional in web
-            development. Excited to contribute to innovative projects, I
-            continually expand my expertise in this dynamic industry.
+            Previously, I played a key role in delivering full-stack and AI-powered
+            platforms from scratch — building authentication systems, real-time features,
+            subscription billing, and AI-integrated workflows. I enjoy working across the
+            stack using technologies like React, Next.js, Node.js, TypeScript, and modern
+            tooling to turn complex ideas into production-ready products.
+            <br />
+            <br />
+            I'm passionate about continuous learning, performance-driven development, and
+            building reliable software that delivers real value. Always excited to take
+            on challenging projects and grow alongside ambitious teams.
           </p>
         </div>
       </div>
